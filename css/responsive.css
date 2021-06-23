@@ -1,0 +1,52 @@
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {}
+
+@media only screen and (max-width: 767px) {
+   
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px){
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+	.mainmenu span{
+		color: #000;
+	}
+	.text_area h2{
+	padding-top: 100px;
+	color: #fff;
+	font-size: 30px;
+	font-weight: 600;
+	font-family: 'Open Sans', sans-serif;
+}
+.text_area p{
+	padding-top: 30px;
+	color: #A8A8A8;
+	font-size: 25px;
+	font-weight: 600;
+	font-family: 'Open Sans', sans-serif;
+}
+.text_area input{
+	padding: 8px 16px;
+	margin-top: 40px;
+	margin-bottom: 150px;
+	color: #fff;
+	background-color: #3F8DBF;
+	font-size: 20px;
+	font-weight: 600;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.comma p{
+	color: #BABABA;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 18px;
+	font-family: 'Open Sans', sans-serif;
+	padding-bottom: 50px;
+}
+}
